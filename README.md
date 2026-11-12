@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**rahik-sultana/rahik-sultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rahik Sultana 👋
 
-Here are some ideas to get you started:
+### Aspiring Android Developer | CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering student passionate about learning software development and building useful applications.
+
+### 🌱 Currently Learning
+- Kotlin
+- Android Development
+- Android Studio
+- Git & GitHub
+
+### 💻 Programming Skills
+- Java — Basic to Intermediate
+- C — Basic
+- C++ — Basic
+
+### 🛠️ Tools & Technologies
+- Android Studio
+- VS Code
+- Git
+- GitHub
+- SQL
+
+### 🚀 My Projects
+- Personal Expense Tracker — Coming Soon
+
+### 🎯 My Goals
+- Become a skilled Android Developer.
+- Build practical Android applications.
+- Improve my programming skills.
+- Explore modern app development technologies.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/rahik-sultana
+
+---
+⭐ Thanks for visiting my profile!
